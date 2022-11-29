@@ -1,5 +1,6 @@
 # 目标
 
+- http://ajax.frontend.itheima.net
 - 利用`Git`管理大事件项目代码
 - 安装并且使用 `Live Server`插件
 - 学会查阅`layui`文档
